@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\marid\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\marid\\OneDrive\\Escritorio\\Archivos\\9no Trimestre\\Tendencia al desarrollo de aplicaciones\\Tendencias-en-desarrollo-de-aplicaciones-Asignatura-\\Clase virtual 2019-11-14\\Clase virtual 2019-11-14.csproj",
+      "projectName": "Clase virtual 2019-11-14",
+      "projectPath": "C:\\Users\\marid\\OneDrive\\Escritorio\\Archivos\\9no Trimestre\\Tendencia al desarrollo de aplicaciones\\Tendencias-en-desarrollo-de-aplicaciones-Asignatura-\\Clase virtual 2019-11-14\\Clase virtual 2019-11-14.csproj",
+      "packagesPath": "C:\\Users\\marid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marid\\OneDrive\\Escritorio\\Archivos\\9no Trimestre\\Tendencia al desarrollo de aplicaciones\\Tendencias-en-desarrollo-de-aplicaciones-Asignatura-\\Clase virtual 2019-11-14\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\marid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
