@@ -1,0 +1,6 @@
+C:\Users\marid\source\repos\Clase virtual 2019-11-28\Clase virtual 2019-11-28\bin\Debug\Clase virtual 2019-11-28.exe.config
+C:\Users\marid\source\repos\Clase virtual 2019-11-28\Clase virtual 2019-11-28\bin\Debug\Clase virtual 2019-11-28.exe
+C:\Users\marid\source\repos\Clase virtual 2019-11-28\Clase virtual 2019-11-28\bin\Debug\Clase virtual 2019-11-28.pdb
+C:\Users\marid\source\repos\Clase virtual 2019-11-28\Clase virtual 2019-11-28\obj\Debug\Clase virtual 2019-11-28.csprojAssemblyReference.cache
+C:\Users\marid\source\repos\Clase virtual 2019-11-28\Clase virtual 2019-11-28\obj\Debug\Clase virtual 2019-11-28.exe
+C:\Users\marid\source\repos\Clase virtual 2019-11-28\Clase virtual 2019-11-28\obj\Debug\Clase virtual 2019-11-28.pdb
